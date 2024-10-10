@@ -32,7 +32,6 @@ public class Tugas7_1_05{
             harga = jumlah * tiket - (jumlah * tiket * diskon);
             totalHarga += harga;
             totalTiket += jumlah;
-
         }
 
         System.out.println("Total tiket terjual sebanyak " + totalTiket + " buah.");
